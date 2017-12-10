@@ -1,0 +1,10 @@
+nama : Achmad Theo Safi'i
+NRP : 4210171013
+kelas : 1 - d4 teknologi game
+
+	MENEBAK NAMA NEGARA ASEAN
+game mengisi huruf untuk membentuk kata
+negara yang ada di ASEAN. pemain akan 
+diberi 5 kesempatan untuk menebak dengan
+benar. jika sudah 5 kali maka pemain
+dinyatakan kalah.
